@@ -1,0 +1,22 @@
+C:\Users\Miguel\AppData\Local\Temporary Projects\CompuertasLogicas\bin\Debug\CompuertasLogicas.exe
+C:\Users\Miguel\AppData\Local\Temporary Projects\CompuertasLogicas\bin\Debug\CompuertasLogicas.pdb
+C:\Users\Miguel\AppData\Local\Temporary Projects\CompuertasLogicas\bin\Debug\CompuertasLogicas.xml
+C:\Users\Miguel\AppData\Local\Temporary Projects\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.Form1.resources
+C:\Users\Miguel\AppData\Local\Temporary Projects\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.Resources.resources
+C:\Users\Miguel\AppData\Local\Temporary Projects\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.vbproj.GenerateResource.Cache
+C:\Users\Miguel\AppData\Local\Temporary Projects\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.exe
+C:\Users\Miguel\AppData\Local\Temporary Projects\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.xml
+C:\Users\Miguel\AppData\Local\Temporary Projects\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.pdb
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.exe
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.xml
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.pdb
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\bin\Debug\CompuertasLogicas.exe
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\bin\Debug\CompuertasLogicas.pdb
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\bin\Debug\CompuertasLogicas.xml
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.Form1.resources
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.Resources.resources
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.vbproj.GenerateResource.Cache
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.Form2.resources
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.Form3.resources
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.Form4.resources
+C:\Users\Miguel\documents\visual studio 2010\Projects\CompuertasLogicas\CompuertasLogicas\obj\x86\Debug\CompuertasLogicas.Form5.resources
